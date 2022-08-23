@@ -1,3 +1,5 @@
 .vs/
 libmail/bin/
 libmail/obj/
+packages/
+DLLExport.bat
